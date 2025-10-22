@@ -5,7 +5,12 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        primary: "#030014"
+        primary: "#030014",
+        secondary: "#151312",
+        light: {
+          
+        }
+        accent: '#AB8BFF'
     },
   },
   plugins: [],
